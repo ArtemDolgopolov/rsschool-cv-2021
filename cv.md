@@ -25,8 +25,9 @@ function reverse(n) {
 }
 ```
 ## Work expirience:
-	* Welcome Spain (training page,doesn't relate to the real project experience)
-https://github.com/ArtemDolgopolov/welcome-spain
+	* Welcome Spain (training page,doesn't relate to the real project experience): https://github.com/ArtemDolgopolov/welcome-spain
+	* To be filled :)
+
 
 ## Education: 
 	* Javascript basics (in progress)
